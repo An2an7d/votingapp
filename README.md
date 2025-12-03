@@ -4,7 +4,7 @@
 ![Voting Interface Screenshot](images/voting_interface.png)
 
 ## result interface
-![Result Interface Screenshot](images/result_interface.ong)
+![Result Interface Screenshot](images/result_interface.png)
 
 ## nodes and services configured in kubernetes cluster
 ![Config Screenshot](images/config.png)
